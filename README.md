@@ -1,6 +1,5 @@
-# GoIndex-美化魔改版
+# GoIndex
 
-# 使用
 
 1.https://install.kenci.workers.dev
 
@@ -10,7 +9,7 @@
 > var html = `
 > 
 > ......
-> <script src="替换"></script>
+> <script src="js"></script>
 > 
 > ......
 > 
